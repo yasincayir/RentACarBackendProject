@@ -76,6 +76,6 @@ namespace Business.Constants
             public static string CarFindeksUpdated = "Araba findeks güncellendi";
             public static string FindeksScoreMax = "Findeks skoru 1900 den büyük olamaz";
             public static string FindeksScoreSuccesful = "Başarılı";
-        }
+    }
     }
 
