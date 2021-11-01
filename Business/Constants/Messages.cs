@@ -6,6 +6,7 @@ namespace Business.Constants
 {
     public static class Messages
     {
+            public static string UserNotFound = "Kullanıcı bulunamadı.";
             public static string CarAdded = "Succes,Car added!";
             public static string CarAddInvalid = "Car add invalid!";
             public static string CarListInvalid="Succes,Car list invalid!";
@@ -61,7 +62,6 @@ namespace Business.Constants
             public static string ImagesAdded = "Resim eklendi.";
             public static string FailAddedImageLimit = "Resim limitine erişildi!";
             public static string CarImageLimitExceeded = "Arabaya resim ekleme limitine ulaşıldı";
-            public static string UserNotFound = "Kullanıcı bulunamadı.";
             public static string PasswordError = "Parola hatası.";
             public static string SuccessfulLogin = "Giriş başarılı";
             public static string UserAlreadyExist = "Bu kullanıcı zaten mevcut";
